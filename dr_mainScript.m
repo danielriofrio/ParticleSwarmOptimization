@@ -1,3 +1,4 @@
+%% This code was developed by Daniel Riofrio.
 %% main:
 
 p = dr_particle;
